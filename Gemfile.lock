@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     mysql (2.9.1)
-    pg (0.15.1)
+    pg (0.16.0)
     test-unit (2.5.5)
 
 PLATFORMS
