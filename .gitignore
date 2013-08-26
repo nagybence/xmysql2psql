@@ -1,5 +1,1 @@
-*.yml
-configs
-test/fixtures/test*.sql
-pkg
-.idea/
+*.gem
